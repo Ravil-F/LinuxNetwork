@@ -7,11 +7,11 @@ The russian version of the task can be found in the repository.
 
 ## Contents
 
-1. [Chapter I](#chapter-ii) \
+1. [Chapter I](#chapter-i) \
    1.1. [TCP IP protocol stack](#tcp-ip-protocol-stack) \
    1.2. [Addressing](#addressing) \
    1.3. [Routing](#routing)
-2. [Chapter II](#chapter-iii) \
+2. [Chapter II](#chapter-ii) \
    2.1. [ipcalc tool](#ipcalc-tool) \
    2.2. [Static routing between two machines](#part-2-static-routing-between-two-machines) \
    2.3. [iperf3 utility](#part-3-iperf3-utility) \
@@ -98,7 +98,7 @@ Meanings of the columns:
 \> *As last time, you save even more useful information in the materials folder.*
 
 
-## Chapter I
+## Chapter II
 
 As a result of the work you should provide a report with completed tasks. Each part of the task describe what should be added to the report once it has been completed. This can be answers to questions, screenshots, etc.
 - A report with a .md extension must be uploaded to the repository, in the src folder;
